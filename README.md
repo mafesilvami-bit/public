@@ -2,8 +2,9 @@
 What tools you installed
 ***Cursor***
 ***Claude Code for VS Code***: via Cursor Extensions marketplace
-- **Codex** — AI extension installed via Cursor Extensions marketplace
-- **Git** — Version control system, required for repository management
+***Codex*** — AI extension installed via Cursor Extensions marketplace
+***Git*** — Version control system, required for repository management
+
 — What steps you completed
 1. Downloaded and installed Cursor IDE from cursor.com
 2. Searched for "Claude Code" in Cursor Extensions and installed Claude Code for VS Code
