@@ -1,5 +1,6 @@
 # public
 What tools you installed
+
 ***Cursor***
 ***Claude Code for VS Code***: via Cursor Extensions marketplace
 ***Codex*** — AI extension installed via Cursor Extensions marketplace
