@@ -16,6 +16,7 @@ What tools you installed
 9. Committed and pushed changes to GitHub
 
 — What issues you ran into and how you solved them
+
 Issue 1: `git clone` command not recognized in terminal**  
 The terminal returned a `CommandNotFoundException` error when running `git clone`.  
 **Solution:** Git was not installed on the machine. Downloaded and installed Git for Windows from git-scm.com, restarted Cursor, and the command worked correctly.
