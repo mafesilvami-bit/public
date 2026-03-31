@@ -1,10 +1,10 @@
 # public
 What tools you installed
 
-***Cursor***
-***Claude Code for VS Code***: via Cursor Extensions marketplace
-***Codex*** — AI extension installed via Cursor Extensions marketplace
-***Git*** — Version control system, required for repository management
+***Cursor***,
+***Claude Code for VS Code***: via Cursor Extensions marketplace,
+***Codex*** — AI extension installed via Cursor Extensions marketplace,
+***Git*** — Version control system, required for repository management.
 
 — What steps you completed
 1. Downloaded and installed Cursor IDE from cursor.com
